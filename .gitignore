@@ -205,3 +205,8 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Data files (keep in S3, not GitHub)
+*.csv
+*.parquet
+*.wav
