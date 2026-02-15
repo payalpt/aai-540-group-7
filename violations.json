@@ -1,0 +1,7 @@
+{
+  "violations" : [ {
+    "feature_name" : "Missing columns",
+    "constraint_check_type" : "missing_column_check",
+    "description" : "There are missing columns in current dataset. Number of columns in current dataset: 7, Number of columns in baseline constraints: 21"
+  } ]
+}
