@@ -1,0 +1,23 @@
+{
+  "violations" : [ {
+    "constraint_check_type" : "LessThanThreshold",
+    "description" : "Metric weightedF2 with 0.0 +/- 0.0 was LessThanThreshold '0.1337600202209865'",
+    "metric_name" : "weightedF2"
+  }, {
+    "constraint_check_type" : "LessThanThreshold",
+    "description" : "Metric accuracy with 0.0 +/- 0.0 was LessThanThreshold '0.19666666666666666'",
+    "metric_name" : "accuracy"
+  }, {
+    "constraint_check_type" : "LessThanThreshold",
+    "description" : "Metric weightedRecall with 0.0 +/- 0.0 was LessThanThreshold '0.19666666666666666'",
+    "metric_name" : "weightedRecall"
+  }, {
+    "constraint_check_type" : "LessThanThreshold",
+    "description" : "Metric weightedPrecision with 0.0 +/- 0.0 was LessThanThreshold '0.06206495969653864'",
+    "metric_name" : "weightedPrecision"
+  }, {
+    "constraint_check_type" : "LessThanThreshold",
+    "description" : "Metric weightedF1 with 0.0 +/- 0.0 was LessThanThreshold '0.09238740920096854'",
+    "metric_name" : "weightedF1"
+  } ]
+}
