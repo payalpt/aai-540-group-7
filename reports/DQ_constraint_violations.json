@@ -1,0 +1,7 @@
+{
+  "violations" : [ {
+    "feature_name" : "Extra columns",
+    "constraint_check_type" : "extra_column_check",
+    "description" : "There are extra columns in current dataset. Number of columns in current dataset: 27, Number of columns in baseline constraints: 21"
+  } ]
+}
