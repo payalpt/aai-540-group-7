@@ -121,7 +121,7 @@ This supports real-time call center use cases.
 
 Audio → Feature Extraction → SageMaker Endpoint → Emotion Prediction
 
-## **Monitoring & Alerting**
+## **Monitoring**
 
 We implemented three layers of monitoring:
 
@@ -159,7 +159,7 @@ Models are only registered if accuracy ≥ 60%, preventing poor models from reac
 
 
 
-## **Risks & Ethical Considerations**
+## **Limitations & Ethical Considerations**
 
 *   Acted vs natural speech gap
 *   Limited demographic diversity
